@@ -1,0 +1,8 @@
+# EcoRenter Robots.txt
+# https://ecorenter.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ecorenter.com/sitemap.xml
