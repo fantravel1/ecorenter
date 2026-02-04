@@ -487,4 +487,104 @@
     <priority>0.5</priority>
   </url>
 
+  <!-- New Eco-Resorts: Kenya -->
+  <url><loc>https://ecorenter.com/eco-resorts/kenya/angama-mara.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/kenya/segera-retreat.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/kenya/basecamp-masai-mara.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/kenya/elsamere-conservation.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/kenya/saruni-mara.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- New Eco-Resorts: Portugal -->
+  <url><loc>https://ecorenter.com/eco-resorts/portugal/craveiral-farmhouse.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/portugal/monte-velho-eco-retreat.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/portugal/casa-do-rio-ecovillage.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/portugal/cocoon-eco-design.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/portugal/monte-da-vilarinha.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/portugal/pedras-salgadas.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- New Eco-Resorts: Mexico -->
+  <url><loc>https://ecorenter.com/eco-resorts/mexico/azulik-tulum.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/mexico/hotelito-desconocido.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/mexico/xixim-eco-hotel.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/mexico/xixim-eco-park.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/mexico/maya-ka-an.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- New Eco-Resorts: Colombia -->
+  <url><loc>https://ecorenter.com/eco-resorts/colombia/el-cantil-ecolodge.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/colombia/finca-la-jorara.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/colombia/la-sirena-eco-hotel.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- New Eco-Resorts: Bali -->
+  <url><loc>https://ecorenter.com/eco-resorts/bali/blue-karma-resort.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/bali/green-village.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/eco-resorts/bali/munduk-moding-plantation.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- New Nomad Stays -->
+  <url><loc>https://ecorenter.com/nomad-stays/bamboo-cowork-canggu.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/cenote-cowork-valladolid.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/cloud-forest-hub-monteverde.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/cloud-forest-workspace-monteverde.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/cloudforest-coliving-jardin.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/coffee-farm-coliving-manizales.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/eco-hub-playa-del-carmen.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/eco-village-tulum.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/jungle-cowork-pai.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/jungle-workspace-osa.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/mountain-retreat-sintra.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/off-grid-workspace-lake-atitlan.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/permaculture-coliving-algarve.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/rice-terrace-retreat-sidemen.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/safari-basecamp-amboseli.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/savanna-cowork-naivasha.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/solar-studio-algarve.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/nomad-stays/treehouse-office-tulum.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- New Experiences -->
+  <url><loc>https://ecorenter.com/experiences/reef-safe-diving.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/experiences/rewilding-volunteering.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/experiences/sustainable-cooking-classes.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- New Certifications -->
+  <url><loc>https://ecorenter.com/certifications/earthcheck.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/certifications/travelife.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/certifications/leed-hospitality.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/certifications/leed-eco-resorts.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/certifications/b-corp-tourism.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- New Rankings -->
+  <url><loc>https://ecorenter.com/rankings/most-sustainable-nomad-cities.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/rankings/sustainable-nomad-cities-2026.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/rankings/best-conservation-lodges.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/rankings/highest-impact-conservation-lodges.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- New Stories -->
+  <url><loc>https://ecorenter.com/stories/how-costa-rica-became-ecotourism-pioneer.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/stories/bamboo-revolution-sustainable-architecture.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/stories/ocean-conservation-through-tourism.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/stories/women-leading-sustainable-tourism.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- New Collection -->
+  <url><loc>https://ecorenter.com/collections/solo-female-traveler-eco-stays.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Guides Section -->
+  <url><loc>https://ecorenter.com/guides/</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ecorenter.com/guides/first-time-eco-resort-guide.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/guides/packing-sustainable-travel.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/guides/carbon-offset-travel-guide.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/guides/choosing-eco-certification.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/guides/digital-nomad-eco-toolkit.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Glossary Section -->
+  <url><loc>https://ecorenter.com/glossary/</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ecorenter.com/glossary/ecotourism-terms.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/glossary/sustainability-metrics.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/glossary/certification-comparison.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Impact Reports Section -->
+  <url><loc>https://ecorenter.com/impact-reports/</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ecorenter.com/impact-reports/2026-sustainability-snapshot.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/impact-reports/community-impact-analysis.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/impact-reports/community-impact-assessment.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ecorenter.com/impact-reports/biodiversity-conservation-report.html</loc><lastmod>2026-02-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
 </urlset>
